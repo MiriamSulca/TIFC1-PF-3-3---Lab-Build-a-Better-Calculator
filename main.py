@@ -1,8 +1,6 @@
 def main():
   print("Hello learners!")
-def main():
-  print("Hello learners!")
- 
+
 #Funcion de addmultiplenumbers([num, num, ..])
 def addmultiplenumbers(numbers):
   response = 0
@@ -32,6 +30,7 @@ def isitaninteger(num):
         return False
     
 def main():
+   print("Hello learners!")
    print(addmultiplenumbers([10,9,23]))
    print (multiplymultiplenumbers([5,6,7]))
    print (isiteven(3))
